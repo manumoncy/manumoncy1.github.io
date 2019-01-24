@@ -1,0 +1,29 @@
+<style>
+	.subheading{
+		font-family: Verdana;
+		font-size: px;
+		font-weight: bold;
+	}
+	.smallersubheading{
+		font-weight: bold;
+		font-size: 20px;
+		font-family: Verdana;
+		float: left;
+	}
+	.smallersubheadingright{
+		font-weight: bold;
+		font-size: 20px;
+		font-family: Verdana;
+		float: right;
+	}
+	.dates{
+		font-size: 17px;
+		font-family: Verdana;
+		float: right;
+	}
+	.normal{
+		font-size: 17px;
+		font-family: Verdana;
+		float: left;
+	}
+</style>
